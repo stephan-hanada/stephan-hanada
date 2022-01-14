@@ -3,6 +3,7 @@
 - 📖 Estudando Data Science, análise exploratória e estatística
 - 💞️ Apaixonado por Machine Learning/Inteligência Artificial
 - 📫 Entre em contato via stephan.hermenegildo@gmail.com
+- 🏓 Mesa-tenista nas horas vagas.
 
 <!---
 stephan-hanada/stephan-hanada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
